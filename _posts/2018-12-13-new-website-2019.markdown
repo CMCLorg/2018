@@ -9,5 +9,5 @@ We are glad to inform you that the [CMCL 2019](https://cmclorg.github.io/) websi
 The workshop will be co-located with [NAACL 2019](https://naacl2019.org), in Minneapolis (USA).
 
 
-The Workshop on Cognitive Modeling and Computational Linguistics The CMCL workshop provides a venue for computational research on cognitive theories of language processing, representation and acquisition.
+The CMCL workshop provides a venue for computational research on cognitive theories of language processing, representation and acquisition.
 Organizers: Emmanuele Chersoni, Cassandra L. Jacobs, Alessandro Lenci, Tal Linzen, Laurent Prévot, and Enrico Santus
